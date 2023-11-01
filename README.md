@@ -1,5 +1,5 @@
 # ai-case-study
-# ![image](https://github.com/crmartella/ai-case-study/assets/147019331/2f93674d-075e-430a-8da0-3851f4b14314)
+![RallyLogoSmall](https://github.com/crmartella/ai-case-study/assets/147019331/a2b92857-d525-4df0-8559-0fb8254a01f7)
 ## Legal Document Management and Drafting Software Powered by AI
 ## Overview and Origin
 ## Business Activites
