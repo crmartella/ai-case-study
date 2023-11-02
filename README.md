@@ -91,12 +91,21 @@ He went on further to point out that the traditional billing model of law firms 
 >The AI revolution is therefore poised to radically affect the billing structure of the legal industry and render the billable hour all but obsolete. Value-based billing — paying for work completed rather than paying for time spent — will make more sense for both lawyers and clients alike.
 
 >Clients will no longer want to pay an hourly rate for a lawyer to do work that an AI tool can do in a fraction of the time. In fact, clients may not want to pay law firms for this at all if an alternative legal service provider (ALSP) is providing the same service at a reduced cost. Likewise, attorneys will want to be compensated based on the value of their expertise and judgment, things that an AI model cannot easily provide.
->
->
 
->>[^11]
+Finally, Mr. Barton pointed out that the use of generative AI will change not only the structure of lawfirms but the definition:
+
+>Law firms are likely to see their pyramid-like hierarchies flatten out with the dissolution of the billable hour. Clients will no longer want to pay an hourly rate for a lawyer to do work that an AI tool can do in a fraction of the time. In fact, clients may not want to pay law firms for this at all if an alternative legal service provider (ALSP) is providing the same service at a reduced cost. Likewise, attorneys will want to be compensated based on the value of their expertise and judgment, things that an AI model cannot easily provide.
+
+>***Firms will have to position themselves as providers who can both leverage AI tools to their advantage as well as offer the distinctly human capabilities that AI cannot replicate and which will be the crux of human lawyers' value going forward: the ability to build client relationships, advocate, empathize, understand a client's particular needs, provide discretionary judgment, and, ultimately, the ability to weigh all of the factors at hand and advise on a path forward for the client.*** [^11]
+
+All of this is worth noting as the small Spellbook is reporting it already has over 600 legal teams on its platform with an additional 53,000 people signed up for the waitlist (*and all of this is only 6 months since launch*).[^12] 
 
 ## Recommendations
+I am a current user of the products offered by Spellbook at a non-discounted price.  Every day brings up new legal issues and concerns with the technology, from security to value billing and use / need of staff.  The goal and use of Spellbook is to position my skillset and lawfirm's team to both leverage AI tools to our advantage as well as offer the distinctly human capabilities that AI cannot replicate and which will be the crux of human lawyers' value going forward: ***the ability to build relationships, advocate, understand a client's unique needs, demonstrate emotional intelligence, and analyze all of the factors (factual and personal) in order to advise on the best path forward.***
+
+Spellbook unfortunately is still in its infancy and its LLM is based on the publically availabe models of OpenAI.  In the future, training the tool on a discrete or unique data set will be necessary (such as an individual lawfirm's data set or a specfic data set that is not generally availalbe to the public).  Although this will limit the generative models, it will be tailored with more specificity to the area of law or attorney requesting the generation.  This will also address the ongoing, but unsettled question of privacy and attorney client privilege.  
+
+The legal industry will have to contend with how it is going to fit into this new AI paradigm and will need to place equal focus on both technological development as well as the quality of its higher level human-to-human interactions. Firms will be forced to assess how their traditional business models, compensation structures, and organizational dynamics run counterintuitive to the integration of AI and must decide whether to adapt or be left behind.
 [^1]: (https://www.crunchbase.com/organization/rally-7c45)
 [^2]: (https://www.crunchbase.com/organization/rally-7c45)
 [^3]: (https://voicebot.ai/2023/05/25/legal-generative-ai-assistant-spellbook-raises-10-9m-and-rebrands-from-rally/#:~:text=Generative%20AI%20assistant%20for%20lawyers,of%20the%20company's%20future%20strategy.)
@@ -108,3 +117,4 @@ He went on further to point out that the traditional billing model of law firms 
 [^9]: (https://straitsresearch.com/press-release/global-ai-software-market-in-legal-industry)
 [^10]: (https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/)
 [^11]: Id.
+[^12]: (https://betakit.com/spellbook-formerly-rally-raises-10-9-million-to-automate-legal-contracts-using-generative-ai/) and (https://www.businesswire.com/news/home/20230822319053/en/)
