@@ -37,7 +37,47 @@ Thompson Reuters, the owner of Westlaw, one of the largest and oldest legal rese
 >
 >Based on the end-user, the global AI software market in legal industry is bifurcated into law firms and corporate legal departments. The law firm segment owns the highest market share and is expected to grow at a CAGR of 28.66% during the forecast period.
 >
->North America is the most significant contributor to the global AI software market in legal industry and is expected to grow at a CAGR of 27.24% during the forecast period.
+>North America is the most significant contributor to the global AI software market in legal industry and is expected to grow at a CAGR of 27.24% during the forecast period. [^8]
+
+The competivie landscape of the legal AI marketplace is dominated by the following players:
+
+1. Casetext Inc.
+
+1. CosmoLex Cloud, LLC
+
+1. DocuSign, Inc.
+
+Everlaw, Inc.
+
+Filevine Inc.
+
+IBM Corporation
+
+Icertis, Inc.
+
+Knovos, LLC
+
+LegalSifter
+
+LexisNexis
+
+Luminance Technologies Ltd.
+
+LAWYAW (Mystacks, Inc.)
+
+Neota Logic
+
+Open Text Corporation
+
+Practice Insight Pty Ltd (WiseTime)
+
+Themis Solutions Inc. (Clio)
+
+Thomson Reuters
+
+TimeSolv Corporation
+
+Veritone, Inc.
 
 ## Results
 ## Recommendations
@@ -48,3 +88,4 @@ Thompson Reuters, the owner of Westlaw, one of the largest and oldest legal rese
 [^5]: (https://www.businesswire.com/news/home/20230822319053/en/)
 [^6]: "The Potentially Large Effects of Artificial Intelligence on Economic Growth." Briggs/Kodnani. March 26, 2023.
 [^7]: (https://www.grandviewresearch.com/industry-analysis/legal-ai-market-report#:~:text=The%20global%20legal%20AI%20market,18.2%25%20from%202023%20to%202030.) and (https://straitsresearch.com/press-release/global-ai-software-market-in-legal-industry)
+[^8]: (https://straitsresearch.com/press-release/global-ai-software-market-in-legal-industry)
