@@ -1,6 +1,6 @@
 # ai-case-study
 ![RallyLogoSmall](https://github.com/crmartella/ai-case-study/assets/147019331/a2b92857-d525-4df0-8559-0fb8254a01f7)
-(https://www.rallylegal.com)\ now known as\ 
+(https://www.rallylegal.com) \ now known as \ 
 ![Spellbook Logo-p-500](https://github.com/crmartella/ai-case-study/assets/147019331/948193b2-a04a-43e9-8407-f15c1dbac728)\
 (https://www.spellbook.legal)\
  ***Legal Document Management and Drafting Software Powered by AI***
