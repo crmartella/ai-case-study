@@ -18,9 +18,16 @@ Although the original purpose of the company was creating templates and managing
 - *Repurposing an old precedent for a new deal: Reviews can take your instructions and make appropriate revisions across the whole document.*
 - *Ensuring an employment agreement is appropriate for a new jurisdiction: Reviews can highlight issues and suggest edits that would fix the issues.*
 - *Running common negotiation playbooks: Save a set of instructions for Spellbook to follow, and have it instantly execute your negotiation playbook on any contract.*
+
+Initial reviews and the Founders statements have been amazingly positive:
+>"The capabilities of Reviews has blown away the expectations of our own team," shared Scott Stevenson, Co-Founder and CEO of Spellbook. "It suggests precise, nuanced edits for contracts – which is exactly what many lawyers we work with have been asking us to build. Spellbook Reviews takes the first pass through documents, identifying specific improvements, hidden risks, and even potential objections a counterparty may have. This empowers lawyers to invest their time in higher-level activities more than ever before."[^4}
+>
+>“We believe Spellbook Reviews will provide enormous power to legal teams of all sizes – from large, to mid-sized, to small firms, and even solo lawyers,” shared Daniel Di Maria, Co-Founder and COO of Spellbook. “At Spellbook, we've been able to bring our legal and technical backgrounds together in a way that has allowed us to develop products and features that are breaking molds and barriers across both industries. And we’re thrilled to see our beta users getting so much value already from Reviews, ultimately enabling them to focus on adding strategic value and providing better work products for clients.” [^5]
 ## Landscape
 ## Results
 ## Recommendations
 [^1]: (https://www.crunchbase.com/organization/rally-7c45)
 [^2]: (https://www.crunchbase.com/organization/rally-7c45)
 [^3]: (https://voicebot.ai/2023/05/25/legal-generative-ai-assistant-spellbook-raises-10-9m-and-rebrands-from-rally/#:~:text=Generative%20AI%20assistant%20for%20lawyers,of%20the%20company's%20future%20strategy.)
+[^4]: (https://finance.yahoo.com/news/spellbook-launches-spellbook-reviews-ai-130000039.html)
+[^5]: (https://www.businesswire.com/news/home/20230822319053/en/)
