@@ -25,6 +25,7 @@ Initial reviews and the Founders statements have been amazingly positive:
 >
 >“We believe Spellbook Reviews will provide enormous power to legal teams of all sizes – from large, to mid-sized, to small firms, and even solo lawyers,” shared Daniel Di Maria, Co-Founder and COO of Spellbook. “At Spellbook, we've been able to bring our legal and technical backgrounds together in a way that has allowed us to develop products and features that are breaking molds and barriers across both industries. And we’re thrilled to see our beta users getting so much value already from Reviews, ultimately enabling them to focus on adding strategic value and providing better work products for clients.” [^5]
 ## Landscape
+Thompson Reuters, the owner of Westlaw, one of the largest and oldest legal research companies, see AI and the use of generative AI as the most substaintail change in the practice of law since the internet.  A 2023 study by Goldman Sachs estimated the share of different industries' employment exposed to replacement by AI automation in the United States. The legal profession had the second highest exposure, with an estimated 44% of tasks susceptible to automation. [^6]     
 ## Results
 ## Recommendations
 [^1]: (https://www.crunchbase.com/organization/rally-7c45)
@@ -32,3 +33,4 @@ Initial reviews and the Founders statements have been amazingly positive:
 [^3]: (https://voicebot.ai/2023/05/25/legal-generative-ai-assistant-spellbook-raises-10-9m-and-rebrands-from-rally/#:~:text=Generative%20AI%20assistant%20for%20lawyers,of%20the%20company's%20future%20strategy.)
 [^4]: (https://finance.yahoo.com/news/spellbook-launches-spellbook-reviews-ai-130000039.html)
 [^5]: (https://www.businesswire.com/news/home/20230822319053/en/)
+[^6]: "The Potentially Large Effects of Artificial Intelligence on Economic Growth." Briggs/Kodnani. March 26, 2023.
