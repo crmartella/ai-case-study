@@ -79,9 +79,10 @@ The competivie landscape of the legal AI marketplace is dominated by the followi
 
 1. TimeSolv Corporation
 
-1. Veritone, Inc.
+1. Veritone, Inc. [^9]
 
 ## Results
+
 ## Recommendations
 [^1]: (https://www.crunchbase.com/organization/rally-7c45)
 [^2]: (https://www.crunchbase.com/organization/rally-7c45)
@@ -91,3 +92,4 @@ The competivie landscape of the legal AI marketplace is dominated by the followi
 [^6]: "The Potentially Large Effects of Artificial Intelligence on Economic Growth." Briggs/Kodnani. March 26, 2023.
 [^7]: (https://www.grandviewresearch.com/industry-analysis/legal-ai-market-report#:~:text=The%20global%20legal%20AI%20market,18.2%25%20from%202023%20to%202030.) and (https://straitsresearch.com/press-release/global-ai-software-market-in-legal-industry)
 [^8]: (https://straitsresearch.com/press-release/global-ai-software-market-in-legal-industry)
+[^9]: (https://straitsresearch.com/press-release/global-ai-software-market-in-legal-industry)
