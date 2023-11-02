@@ -25,7 +25,20 @@ Initial reviews and the Founders statements have been amazingly positive:
 >
 >“We believe Spellbook Reviews will provide enormous power to legal teams of all sizes – from large, to mid-sized, to small firms, and even solo lawyers,” shared Daniel Di Maria, Co-Founder and COO of Spellbook. “At Spellbook, we've been able to bring our legal and technical backgrounds together in a way that has allowed us to develop products and features that are breaking molds and barriers across both industries. And we’re thrilled to see our beta users getting so much value already from Reviews, ultimately enabling them to focus on adding strategic value and providing better work products for clients.” [^5]
 ## Landscape
-Thompson Reuters, the owner of Westlaw, one of the largest and oldest legal research companies, see AI and the use of generative AI as the most substaintail change in the practice of law since the internet.  A 2023 study by Goldman Sachs estimated the share of different industries' employment exposed to replacement by AI automation in the United States. The legal profession had the second highest exposure, with an estimated 44% of tasks susceptible to automation. [^6]     
+Thompson Reuters, the owner of Westlaw, one of the largest and oldest legal research companies, see AI and the use of generative AI as the most substaintail change in the practice of law since the internet.  A 2023 study by Goldman Sachs estimated the share of different industries' employment exposed to replacement by AI automation in the United States. The legal profession had the second highest exposure, with an estimated 44% of tasks susceptible to automation. [^6] In Straits Research's 2023 anaylsis of AI in the legal landscape and Grand View Research's similar report, they highlighted that the global legal AI market size is estimated at US $1.04 billion in 2022 with a compound annual growth rate ("CAGR") of 18.2% through 2030. [^7].  Beyond document drafting, AI is applicable in the e-discovery and legal research markets, along with the timekeeping and billing arenas.  Both of the aformentioned reports idnetified six key hihglights in the legal AI industries over the next seven years:
+
+>The global AI software market in legal industry was valued at USD 719.5 million in 2022. It is expected to reach USD 7,252.8 million by 2031, growing at a CAGR of 29.27% during the forecast period (2023–2031).
+>
+>Based on the component, the global AI software market in legal industry is bifurcated into solutions and services. The solution segment is the highest contributor to the market and is expected to grow at a CAGR of 28.05% during the forecast period.
+>
+>Based on the deployment, the global AI software market in legal industry is bifurcated into on-premise and cloud. The cloud segment owns the highest market share and is expected to grow at a CAGR of 30.31% during the forecast period.
+>
+>Based on the application, the global AI software market in legal industry is bifurcated into legal research, contract review and management, e-billing, e-discovery, compliance, and case prediction. The e-billing segment is the highest contributor to the market and is expected to grow at a CAGR of 28.49% during the forecast period.
+>
+>Based on the end-user, the global AI software market in legal industry is bifurcated into law firms and corporate legal departments. The law firm segment owns the highest market share and is expected to grow at a CAGR of 28.66% during the forecast period.
+>
+>North America is the most significant contributor to the global AI software market in legal industry and is expected to grow at a CAGR of 27.24% during the forecast period.
+
 ## Results
 ## Recommendations
 [^1]: (https://www.crunchbase.com/organization/rally-7c45)
@@ -34,3 +47,4 @@ Thompson Reuters, the owner of Westlaw, one of the largest and oldest legal rese
 [^4]: (https://finance.yahoo.com/news/spellbook-launches-spellbook-reviews-ai-130000039.html)
 [^5]: (https://www.businesswire.com/news/home/20230822319053/en/)
 [^6]: "The Potentially Large Effects of Artificial Intelligence on Economic Growth." Briggs/Kodnani. March 26, 2023.
+[^7]: (https://www.grandviewresearch.com/industry-analysis/legal-ai-market-report#:~:text=The%20global%20legal%20AI%20market,18.2%25%20from%202023%20to%202030.) and (https://straitsresearch.com/press-release/global-ai-software-market-in-legal-industry)
