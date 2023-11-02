@@ -47,37 +47,39 @@ The competivie landscape of the legal AI marketplace is dominated by the followi
 
 1. DocuSign, Inc.
 
-Everlaw, Inc.
+1. Everlaw, Inc.
 
-Filevine Inc.
+1. Filevine Inc.
 
-IBM Corporation
+1. IBM Corporation
 
-Icertis, Inc.
+1. Icertis, Inc.
 
-Knovos, LLC
+1. Knovos, LLC
 
-LegalSifter
+1. LegalSifter
 
-LexisNexis
+1. LexisNexis
 
-Luminance Technologies Ltd.
+1. Luminance Technologies Ltd.
 
-LAWYAW (Mystacks, Inc.)
+1. LAWYAW (Mystacks, Inc.)
 
-Neota Logic
+1. Neota Logic
 
-Open Text Corporation
+1. Open Text Corporation
 
-Practice Insight Pty Ltd (WiseTime)
+1. Practice Insight Pty Ltd (WiseTime)
 
-Themis Solutions Inc. (Clio)
+1. Spellbook Legal
+   
+1. Themis Solutions Inc. (Clio)
 
-Thomson Reuters
+1. Thomson Reuters
 
-TimeSolv Corporation
+1. TimeSolv Corporation
 
-Veritone, Inc.
+1. Veritone, Inc.
 
 ## Results
 ## Recommendations
