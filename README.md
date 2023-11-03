@@ -119,3 +119,5 @@ The benefit to the industry, as stated above, is undeniable.  The reduction in s
 [^10]: (https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/)
 [^11]: Id.
 [^12]: (https://betakit.com/spellbook-formerly-rally-raises-10-9-million-to-automate-legal-contracts-using-generative-ai/) and (https://www.businesswire.com/news/home/20230822319053/en/)
+
+CRM
